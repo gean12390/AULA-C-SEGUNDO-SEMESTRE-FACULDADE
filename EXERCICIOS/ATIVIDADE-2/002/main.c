@@ -10,7 +10,12 @@ int main() {
     
     int array[2];
 
-    scanf("%d %d %d", &array[0], &array[1], &array[2]);
+    printf("Digite o primeiro numero: ");
+    scanf("%d", &array[0]);
+    printf("Digite o segundo numero: ");
+    scanf("%d", &array[1]);
+    printf("Digite o terceiro numero: ");
+    scanf("%d", &array[2]);
 
     printf("\n a soma de %d + %d + %d da o resultado de: %d \n", array[0], array[1], array[2], calcular(array));
 
