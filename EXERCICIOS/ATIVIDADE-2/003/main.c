@@ -1,5 +1,5 @@
 // GIOVANNI PASCUOTTE DA SILVA
-// EXERCICIO 6 -- LISTA
+// EXERCICIO 5 -- LISTA
 #include <stdio.h>
 
 int soma_num(int a, int b);
