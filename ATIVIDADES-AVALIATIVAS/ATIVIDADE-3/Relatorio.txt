@@ -1,0 +1,4 @@
+//Giovanni Pascuotte da Silva
+
+Os exercicios em questão foram bem tranquilos, porém tive um pouco mais de dificuldade em exercicios de array(vetor), onde não me lembrava muitas vezes como se fazia um vetor.
+O resto dos exercicios foram bem tranquilos. Exercicios com funções foram bem tranquilos e a logica foi bem tranquila de se entender.
